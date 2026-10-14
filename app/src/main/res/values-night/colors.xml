@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--dark theme colors-->
+    <color name="primary">#262e37</color>
+    <color name="primary_dark">#20272f</color>
+    <color name="accent">#0099ff</color>
+    <color name="background">#20272f</color>
+    <color name="text_primary">#ffffff</color>
+    <color name="text_secondary">#dedede</color>
+    <color name="btn_bg_normal">#0099ff</color>
+    <color name="btn_bg_pressed">#005D8C</color>
+    <color name="config_card">#262e37</color>
+
+    <!--game library-->
+    <color name="library_card">#2b3440</color>
+    <color name="library_card_pressed">#3b4655</color>
+    <color name="library_search_bg">#2b3440</color>
+    <color name="library_search_stroke">#3d4856</color>
+
+    <color name="nnf_separator_color">@color/nnf_dark_separator_color</color>
+</resources>
